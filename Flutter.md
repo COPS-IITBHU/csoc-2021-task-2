@@ -70,4 +70,4 @@ A beginners tutorial to Hive
 
 [Hive (Flutter Tutorial) - Lightweight & Fast NoSQL Database in Pure Dart](https://www.youtube.com/watch?v=R1GSrrItqUs&t=1712s)
 
-Dev Raj - [repo](https://github.com/dev-raj-1729/flutter_todo_app) [APK](https://github.com/dev-raj-1729/hello-world/blob/04385ad3760a82d419cad0ece306a5eeef335882/app-release.apk)
+Dev Raj - [Flutter To Do App](https://github.com/dev-raj-1729/flutter_todo_app) [APK](https://github.com/dev-raj-1729/hello-world/blob/04385ad3760a82d419cad0ece306a5eeef335882/app-release.apk)

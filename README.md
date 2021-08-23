@@ -18,13 +18,13 @@ Here is the breakdown of the points related to each task.
 |**Task**|**Points**  |
 |--|--|
 | Home Page | 15 |
-|Search Bar Implementation|15|
+|Search Bar Implementation|20|
 |Add task|20|
 |Get tasks|20|
 |Edit Task|20|
 |Delete Task|20|
 |Use of Local Database|20|
-|Design, Smoothness and Innovation|20|
+|Design, Smoothness and Innovation|15|
 |**Total**|150|
 
 ## Judging
